@@ -13,6 +13,7 @@ My future is very important but also not limited. I've always loved games ever s
 # Projects:
 Well, most of my projects are on [GitHub](https://github.com/ChezyName), but here are the most notable in order from when created.
 > Heres a fair warning, Projects that are archived are usually left or forgotton / projects that were there for boredom / testing grounds.
+  Archived projects could also be working but not garenteed.
 
 ## Harmoney : Discord 2.0
 [Harmoney](https://github.com/ChezyName/Harmoney) spelled like that was my AP Computer Science project for the 'create task'. The app is honestly kind of cool and has documentation so you can create your own! It took around 2 weeks to completely develop and is currently *archived*. It has an auto-update feature whenever a GitHub release was detected and full customizability when it comes to themes. In reality, you can give the app a CSS file with custom variables and it will save it as a theme where you can load it and change it. The app was also  **Open Source**, meaning anyone can modify or make their app with the current codebase. For more information, check out the repository [here](https://github.com/ChezyName/Harmoney).
