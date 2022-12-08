@@ -1,4 +1,3 @@
-![Github Snake](https://github.com/ChezyName/ChezyName/blob/main/githubsnake.svg?raw=true)
 # Welcome One, Welcome All!
 Well, here you are on my GitHub page. What brings you here? Are you roaming looking for a potential employee? or a freelancer? or perhaps a friend? Firstly, you can check out my website to see what I offer [here](https://chezyname.github.io/portfollio/).
 ## About Me
@@ -28,3 +27,4 @@ If and **When** I remake this masterpiece, I would make guns apply to a single r
 
 # Future
 Well, my future is clear and bright, so I'll update this file when my life gets a grand update, until then, chao.
+![Github Snake](https://github.com/ChezyName/ChezyName/blob/main/githubsnake.svg?raw=true)
